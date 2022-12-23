@@ -15,7 +15,7 @@ For few-shot experiments, please refer to [FsDet](https://github.com/ucbdrive/fe
 
 In run_train_pdc_few_shot.sh, you can get the relevant running commands about base training stage and finetune stage for coco dataset.
 
-More detail about voc dataset and coco dataset will release soon.
+More detail about experiment for voc dataset and coco dataset will release soon.
 
 ## Results on VOC Benchmark
 
