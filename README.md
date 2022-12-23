@@ -1,11 +1,11 @@
-## imTED: Integrally Migrating Pre-trained Transformer Encoder-decoders for Visual Object Detection
+## Proposal Distribution Calibration for Few-Shot Object Detection
 
 
 <!-- <div align=center><img src="figs/Framework1.png"></div> -->
 <div align=center><img src="figs/Framework2.png"></div>
 <!-- <div align=center><img src="figs/Framework3.png"></div> -->
 
-Code of [Integrally Migrating Pre-trained Transformer Encoder-decoders for  Visual Object Detection](https://arxiv.org/abs/2205.09613).
+Code of [Proposal Distribution Calibration for Few-Shot Object Detection](https://arxiv.org/abs/2212.07618).
 
 The code is based on [mmdetection](https://github.com/open-mmlab/mmdetection), please refer to [get_started.md](docs/en/get_started.md) and [MMDET_README.md](MMDET_README.md) to set up the environment and prepare the data.
 
